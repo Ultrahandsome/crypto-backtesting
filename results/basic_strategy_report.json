@@ -1,0 +1,57 @@
+{
+  "strategy_name": "AAPL CTA Strategy",
+  "report_date": "2025-08-20T13:58:31.007839",
+  "period": {
+    "start_date": "1",
+    "end_date": "219",
+    "total_days": 219,
+    "trading_days": 100
+  },
+  "returns": {
+    "total_return": "0.35%",
+    "annualized_return": "0.40%",
+    "cagr": "0.40%",
+    "best_day": "0.16%",
+    "worst_day": "-0.19%",
+    "positive_days": 52,
+    "negative_days": 48
+  },
+  "risk": {
+    "volatility": "0.60%",
+    "downside_deviation": "0.57%",
+    "max_drawdown": "-0.46%",
+    "max_drawdown_duration": "30 days",
+    "var_95": "-0.06%",
+    "cvar_95": "-0.09%",
+    "ulcer_index": "0.12"
+  },
+  "risk_adjusted": {
+    "sharpe_ratio": "-2.64",
+    "sortino_ratio": "-2.82",
+    "calmar_ratio": "0.88",
+    "omega_ratio": "1.17",
+    "sterling_ratio": "3.39",
+    "recovery_factor": "0.76"
+  },
+  "distribution": {
+    "skewness": "-0.07",
+    "kurtosis": "5.28",
+    "skewness_interpretation": "Approximately symmetric",
+    "kurtosis_interpretation": "Leptokurtic (fat tails)"
+  },
+  "trading": {
+    "total_trades": 0,
+    "win_rate": "0.0%",
+    "profit_factor": "0.00",
+    "avg_win": "$0.00",
+    "avg_loss": "$0.00",
+    "largest_win": "$0.00",
+    "largest_loss": "$0.00"
+  },
+  "performance_rating": {
+    "score": 30,
+    "max_score": 100,
+    "percentage": 30.0,
+    "rating": "Poor"
+  }
+}
